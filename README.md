@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Jakob-Bodendieck
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at bodendieck.jakob@gmail.com
+- 👀 I’m interested in building small projects that people can use in their everyday lives.
+- Currently, I am working on Troubadour: an app that gives you music suggestions based on your mood. 
+- 💞️ I’m looking to collaborate on anything that comes to mind, feel free to send me a message! 
+- 📫 Reach me at bodendieck.jakob@gmail.com, find out more about what I do at www.jakobb.art
+- Tech Stack: Javascript, React, Typescript, CSS, SQL, Node.js, MongoDB, Express.js. 
