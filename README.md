@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Jakob-Bodendieck
-- 👀 I’m interested in building small projects that people can use in their everyday lives.
-- Currently, I am working on Troubadour: an app that gives you music suggestions based on your mood. 
-- 💞️ I’m looking to collaborate on anything that comes to mind, feel free to send me a message! 
-- 📫 Reach me at bodendieck.jakob@gmail.com, find out more about what I do at www.jakobb.art
-- Tech Stack: Javascript, React, Typescript, CSS, SQL, Node.js, MongoDB, Express.js. 
+# About Me 👨‍💻
+
+- 👋 Hi, I’m [@Jakob-Bodendieck](https://github.com/Jakob-Bodendieck).
+- 👀 I’m passionate about building small projects you can use in your everyday life.
+- 🛠️ Currently, I'm working on [Troubadour](https://github.com/glowinZero/troubadour): an app suggesting music based on your mood.
+- 💞️ Open to collaborating on any interesting projects—send me a message at bodendieck.jakob@gmail.com or explore more at [www.jakobb.art](https://www.jakobb.art).
+- 💻 Tech Stack: JavaScript, React, TypeScript, CSS, SQL, Node.js, MongoDB, Express.js.
